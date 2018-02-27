@@ -63,5 +63,8 @@ console.log(b)
 */
 
 
+/*const {age , name} = {age : 10 , name : 'kong-dev'}
+console.log(name)*/
+
 
 
