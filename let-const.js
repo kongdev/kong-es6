@@ -37,7 +37,30 @@ function getPetName(){
 const petName = getPetName();
 console.log(petName)
 */
+/*
+for(var i = 0 ; i<3; i++){
+  setTimeout(()=>{ console.log(i)},100)
+}
+*/
 
+/*
+for(let i = 0 ; i<3; i++){
+  setTimeout(()=>{ console.log(i)},100);
+}
+*/
+//console.log(i)
+
+/*
+let a = 0
+a = 1
+console.log(a)
+*/
+
+/*
+const b = 10
+b = 1
+console.log(b)
+*/
 
 
 
